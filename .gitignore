@@ -1,0 +1,8 @@
+﻿.idea
+venv
+venv12
+data/__pycache__
+markllm/__pycache__
+results/grundprinzipien_longest.json
+results
+scores
